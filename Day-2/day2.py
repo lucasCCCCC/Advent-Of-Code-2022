@@ -24,7 +24,7 @@ gameOutcomeScores2 = {
 
 scorePartA = 0
 scorePartB = 0
-file = open("Day-2/test.txt", "r")
+file = open("Day-2/input.txt", "r")
 
 for line in file:
     curr = line.split(" ")
